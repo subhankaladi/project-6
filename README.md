@@ -1,2 +1,2 @@
-# project-6
+# project-6-timer-app
 this is sixth project from GIAIC 
